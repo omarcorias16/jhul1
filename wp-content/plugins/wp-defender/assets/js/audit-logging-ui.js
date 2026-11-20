@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwp_defender=self.webpackChunkwp_defender||[]).push([[38,165,172,249,310,601,890],{2470(e){e.exports=wp.i18n}},e=>{e.O(0,[493,270],()=>{return p=206,e(e.s=p);var p});e.O()}]);
